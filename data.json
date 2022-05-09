@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Cool title 1",
+      "items": [
+        { "title": "nested cool title 1" },
+        {
+          "title": "nested cool title 2",
+          "items": [
+            { "title": "deeply nested cool title 1" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cool title 2",
+      "items": [
+        { "title": "nested cool title 2" },
+        {
+          "title": "nested cool title 2",
+          "items": [
+            { "title": "deeply nested cool title 2" }
+          ]
+        }
+      ]
+    }
+  ]
+  
